@@ -28,7 +28,7 @@ Me gusta convertir tareas manuales y repetitivas en sistemas que funcionan solos
 
 ## 🚀 Proyectos destacados
 
-- **[GourmetStore]([ENLACE-AL-REPO](https://github.com/BigDarkness3232/gourmet-store))**: e-commerce full-stack a medida desarrollado para una pescadería. [Describe en una línea el stack y qué resuelve]
+- **[GourmetStore](https://github.com/BigDarkness3232/gourmet-store)**: e-commerce full-stack a medida desarrollado para una pescadería. [Describe en una línea el stack y qué resuelve]
 
 ## 📜 Certificaciones
 
