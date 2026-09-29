@@ -29,6 +29,7 @@ Me gusta convertir tareas manuales y repetitivas en sistemas que funcionan solos
 ## 🚀 Proyectos destacados
 
 - **[GourmetStore](https://github.com/BigDarkness3232/gourmet-store)**: e-commerce full-stack a medida desarrollado para una pescadería. [Describe en una línea el stack y qué resuelve]
+- **[Portafolio Personal](https://portafolio-freddy.vercel.app)** · [Código](https://github.com/BigDarkness3232/Portafolio-Freddy): sitio web profesional desarrollado con React, Vite, EmailJS y React Icons, con mi CV, proyectos y servicios (landing pages, e-commerce y aplicaciones web). Incluye formulario de contacto funcional, diseño responsive y despliegue en Vercel.
 
 ## 📜 Certificaciones
 
