@@ -1,4 +1,4 @@
-BigDarkness3232# Hola, soy Freddy 👋
+Hola, soy Freddy 👋
 
 **Ingeniero en Informática** de Duoc UC, con foco en **integraciones de APIs, automatización de procesos (RPA) y aseguramiento de calidad (QA)**. Desarrollador freelance en Chile 🇨🇱.
 
